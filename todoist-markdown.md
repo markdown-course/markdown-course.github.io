@@ -24,17 +24,17 @@ Here is an example from the Todoist site:
 
 Links are nice to have so that if I have a list of blog posts I'd like to read I can include them with link text rather than having a list of ugly urls.
 
-![Web Articles to Read]()
+![Web Articles to Read](./webarticlestoread.png)
 
 Todoist's list of supported Markdown syntax works very well in task names and comments. However, there are a few cases where Markdown in Todoist doesn't work so well in task descriptions.
  
  For example, my unordered list looks fine here in the task view.
  
- ![Task View]()
+ ![Task View](./taskview.png)
  
  But it doesn't look so good in the task list view.
  
- ![Task List View]()
+ ![Task List View](./tasklistview.png)
  
  This particular bug seems to be limited to the following features:
  - Unordered list
